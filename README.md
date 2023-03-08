@@ -56,4 +56,4 @@
     x = g(f, x)
     f = g(f, 0)Global frame
 ```
-![](https://github.com/ccvcpy/cs61a_fall/blob/main/image/2.1.jpg)
+![](https://github.com/ccvcpy/cs61a_fall/blob/main/image/2.4.jpg)
