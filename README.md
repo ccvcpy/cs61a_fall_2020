@@ -39,7 +39,7 @@
             return True
 ```
 ## 2.1
-![2.1](image\2.1.png)
+![2.1](https://github.com/ccvcpy/cs61a_fall/blob/main/image/2.1.png)
 ## 2.2
 ![](image\2.2.png)
 ## 2.3
