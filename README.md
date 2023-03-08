@@ -41,9 +41,9 @@
 ## 2.1
 ![2.1](https://github.com/ccvcpy/cs61a_fall/blob/main/image/2.1.png)
 ## 2.2
-![](image\2.2.png)
+![](https://github.com/ccvcpy/cs61a_fall/blob/main/image/2.2.png)
 ## 2.3
-![](image\2.3.png)
+![](https://github.com/ccvcpy/cs61a_fall/blob/main/image/2.3.png)
 ## 2.4 
 ```python
     def f(x):
@@ -56,4 +56,4 @@
     x = g(f, x)
     f = g(f, 0)Global frame
 ```
-![](image\2.4.jpg)
+![](https://github.com/ccvcpy/cs61a_fall/blob/main/image/2.1.jpg)
